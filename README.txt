@@ -11,3 +11,4 @@ PACOTE NETLIFY — DASHBOARD PROJEÇÃO AGOSTO 2026
 
 Importante: para publicar Functions, prefira conectar a pasta a um repositório
 GitHub ou usar o Netlify CLI. O HTML usa as rotas /.netlify/functions/...
+Forçar atualização Netlify
